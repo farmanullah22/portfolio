@@ -35,17 +35,17 @@ export const service = [
     },
     {
         title:"Web Development",
-        desc:"The most modern and high-quality design made at a professional level.",
+        desc:"Modern, high-quality web development built with the latest technologies.",
         logo: <FaLaptopCode/>
     },
     {
         title:"Mobile Apps",
-        desc:"The most modern and high-quality design made at a professional level.",
+        desc:"Top-tier mobile app development with cutting-edge technology.",
         logo: <FaMobileAlt/>
     },
     {
-        title:"Photography",
-        desc:"The most modern and high-quality design made at a professional level.",
+        title:"Node.js",
+        desc:"High-performance backend development with Node.js for scalable applications.",
         logo: <FaCamera/>
     },
 ]

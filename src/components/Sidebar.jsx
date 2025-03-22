@@ -20,7 +20,7 @@ const Sidebar = () => {
                         </div>
                         <div className='text-white'>
                             <h1 className='font-semibold'>EMAIL</h1>
-                            <p className='text-gray-200'>eng.farmanullah00@gmail.com</p>
+                            <p className='text-gray-200'>eng.farmanullah00 <br /> @gmail.com</p>
                         </div>
                     </div>
                     <div className='flex gap-3 items-center'>

@@ -1,5 +1,5 @@
 import React from 'react'
-import avatar from "../assets/avatar.webp"
+import avatar from "../assets/Farman.jpg"
 import { FaMapMarkerAlt, FaRegCalendarAlt, FaRegEnvelope } from 'react-icons/fa'
 import { MdOutlinePhoneIphone } from 'react-icons/md'
 import { NavLink } from 'react-router-dom'
@@ -11,8 +11,8 @@ const ResponsiveMenu = ({ open, setOpen }) => {
                 <div className='rounded-xl p-3 flex items-center justify-center'>
                     <img src={avatar} alt="" className='w-[200px] bg-gray-700 rounded-2xl' />
                 </div>
-                <h1 className='text-white font-bold text-center text-3xl my-2'>Rohit Singh</h1>
-                <p className='text-white bg-gray-700 rounded-md py-2 text-center mx-4 mb-7'>MernStack Developer</p>
+                <h1 className='text-white font-bold text-center text-3xl my-2'>Farman Ullah</h1>
+                <p className='text-white bg-gray-700 rounded-md py-2 text-center mx-4 mb-7'>Full Stack Developer</p>
                 <hr className='text-gray-700 mx-4 border-2' />
 
                 <nav className='mt-5'>
