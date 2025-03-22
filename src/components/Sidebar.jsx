@@ -29,7 +29,7 @@ const Sidebar = () => {
                         </div>
                         <div className='text-white'>
                             <h1 className='font-semibold'>PHONE</h1>
-                            <p className='text-gray-200'>+91 307-559-103</p>
+                            <p className='text-gray-200'>+92 307-559-103</p>
                         </div>
                     </div>
                     <div className='flex gap-3 items-center'>

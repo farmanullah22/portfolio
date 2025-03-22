@@ -52,13 +52,13 @@ export const service = [
 
 export const testimonials = [
     {
-        name:"Vanshika Sondhiya",
-        para:"Rohit is a highly talented website developer! He understands requirements well and creates clean, user-friendly websites. Great work and highly recommended! ",
+        name:"Eng khizer",
+        para:"Khizer is a highly talented website developer! He understands requirements well and creates clean, user-friendly websites. Great work and highly recommended!  ",
         img: testimonial1
     },
     {
-        name:"Aman Sharma",
-        para:"Rohit is an excellent website developer! He is skilled, professional, and delivers fast, responsive websites. Highly recommended!",
+        name:"Ihsan Ullah",
+        para:"Ihsan is an excellent website developer! He is skilled, professional, and delivers fast, responsive websites. Highly recommended!",
         img: testimonial2
     },
    
