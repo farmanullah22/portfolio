@@ -29,7 +29,6 @@ const App = () => {
   return (
     <div className='flex'>
       <Sidebar/>
-      <About/>
       <RouterProvider router={router} />
     </div>
   )
