@@ -102,14 +102,14 @@ export const timeline = [
     },
     {
       icon: schoolIcon,
-      date: '2016-2018',
+      date: '2020-2021',
       title: 'Higher Secondary (HS)',
-      subtitle: 'Adarsh Madhyamik Vidhyalaya',
+      subtitle: 'Paradise College',
       desc: 'Creative Direction, User Experience, Visual Design',
     },
     {
       icon: schoolIcon,
-      date: '204-2025',
+      date: '2024-2025',
       title: 'Software House',
       subtitle: 'Peshware',
       desc: 'Strategy, Solve Tech Problem',
