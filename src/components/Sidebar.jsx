@@ -18,10 +18,11 @@ const Sidebar = () => {
                         <div className='bg-gray-700 p-2 rounded-md shadow'>
                             <FaRegEnvelope className='text-yellow-500 text-2xl' />
                         </div>
-                        <div className='text-white'>
-                            <h1 className='font-semibold'>EMAIL</h1>
-                            <p className='text-gray-200'>eng.farmanullah00 <br /> @gmail.com</p>
+                        <div className="text-white flex flex-col sm:flex-row sm:items-center sm:space-x-2">
+                            <h1 className="font-semibold whitespace-nowrap">EMAIL</h1>
+                            <p className="text-gray-200 break-words sm:break-normal">eng.farmanullah00@gmail.com</p>
                         </div>
+
                     </div>
                     <div className='flex gap-3 items-center'>
                         <div className='bg-gray-700 p-2 rounded-md shadow'>

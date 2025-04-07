@@ -8,6 +8,10 @@
   </head>
   <body style="background-color: #1E2939;">
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <script type="module" src="/src/main.jsx">
+      var path = window.location.pathname;
+      var newUrl = window.location.origin + "/portfolio/#" + path;
+      window.location.replace(newUrl);
+    </script>
   </body>
 </html>
